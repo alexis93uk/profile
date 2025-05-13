@@ -37,7 +37,8 @@ h1, h2 {
 }
 
 a {
-  color:rgb(68, 22, 112)
+  color:rgb(68, 22, 112);
+  text-decoration: none; 
 }
 
 a:hover {
